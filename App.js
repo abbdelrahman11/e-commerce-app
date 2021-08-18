@@ -101,7 +101,7 @@ class App extends React.Component {
             </div>
           </div>
         </main>
-        <footer>all right is reserved</footer>
+        
       </div>
     );
   }
